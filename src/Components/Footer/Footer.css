@@ -1,0 +1,15 @@
+
+
+.footer{
+    background-color: rgb(44, 62, 80);
+    color: white;
+    height: 200px;
+  
+}
+.col-4 .card-body{
+    padding-top:50px ;
+}
+.col-4 .icon i{
+    padding: 10px;
+    
+}

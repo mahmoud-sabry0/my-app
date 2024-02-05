@@ -1,0 +1,33 @@
+.line{
+    background-color: rgb(44, 62, 80);
+    width: 100PX;
+height: 5PX;
+}
+.Abaut{
+    padding-top: 100px;
+}
+.col-lg-4 .rounded-3:hover {
+    background-color: rgba(26, 188, 156, 0.9);
+position: absolute;
+}
+
+.layer__:hover {
+    background-color: #1abc9ce6;
+ 
+    cursor: pointer;
+    transition:all .6s ;
+}
+.layer__:hover i {
+    opacity: 1;
+    transition: all .6s;
+    
+}
+.layer__ i{
+    opacity: 0;
+    font-size: 100px;
+    font-weight: 900px;
+}
+.home{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
